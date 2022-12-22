@@ -103,10 +103,10 @@
 # # a = int(input())
 # print(f'Объем = {a**3}\nПлощадь полной поверхности = {6*a**2}')
 #//////////////////////////
-# a = int(input())
-# b = int(input())
-# #print(a)
-# #print(b)
-# c = int(3*(a +b) **3 + 275*b**2 - 127*a - 41)
-# print(c)
+a = int(input())
+b = int(input())
+#print(a)
+#print(b)
+c = int(3*(a +b) **3 + 275*b**2 - 127*a - 41)
+print(c)
 
